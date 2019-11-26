@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HWW3D3</string>
+    <string name="add_reservation">add_reservation</string>
+    <string name="price">price</string>
+    <string name="room_number">room_number</string>
+    <string name="name">name</string>
+    <string name="delete">delete</string>
+    <string name="add_guest">add_guest</string>
+</resources>
